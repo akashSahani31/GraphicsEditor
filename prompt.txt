@@ -1,0 +1,65 @@
+Prompt 1:
+How can I create a menu-driven 2D Graphics Editor in C using a character-based canvas?
+
+Response:
+Provided the overall project structure, including a 2D character array as the canvas, menu-driven design, and functions for drawing shapes and displaying the canvas.
+
+Prompt 2:
+How can I initialize and display a canvas using a 2D character array in C?
+
+Response:
+Provided code for creating a canvas, filling it with '_' characters, and displaying it using nested loops.
+
+Prompt 3:
+How can I draw a rectangle on the canvas using user input?
+
+Response:
+Provided a drawRectangle() function that accepts row, column, width, and height values and draws the rectangle boundaries using '*' characters.
+
+Prompt 4:
+How can I create a menu-driven interface for the graphics editor?
+
+Response:
+Provided code using a while loop and switch-case statements to allow users to select different operations from a menu.
+
+Prompt 5:
+How can I draw a horizontal line on the canvas?
+
+Response:
+Provided a drawLine() function that takes row number and column range as input and draws a horizontal line using '*' characters.
+
+Prompt 6:
+How can I draw a triangle on the canvas?
+
+Response:
+Provided a drawTriangle() function that accepts position and height as input and draws the sides and base of a triangle.
+
+Prompt 7:
+How can I draw a circle on the canvas?
+
+Response:
+Provided a drawCircle() function that accepts center coordinates and radius and uses distance calculations to plot circle points on the canvas.
+
+Prompt 8:
+How can I implement a delete feature in the graphics editor?
+
+Response:
+Provided a clearCanvas() function that reinitializes the canvas and removes all existing drawings.
+
+Prompt 9:
+How can I implement a modify object feature?
+
+Response:
+Provided a modifyObject() function and menu integration to allow users to clear and redraw objects with new dimensions.
+
+Prompt 10:
+How can I create a README file for this project?
+
+Response:
+Generated README content containing the project description, features, tools used, and author details.
+
+Prompt 11:
+How can I upload the project to GitHub and submit it through Moodle?
+
+Response:
+Provided step-by-step instructions for creating a GitHub repository, uploading project files, obtaining the repository URL, and submitting it through Moodle.
